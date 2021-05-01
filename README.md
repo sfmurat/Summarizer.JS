@@ -24,7 +24,7 @@ Summarizer.JS is simply a text summarizer for websites.
 </html>
 ```
 
-## 
+## Entering values
 ```js
 sum("a", b, c)
 // a -> id of the text to be shortened
