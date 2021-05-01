@@ -6,7 +6,7 @@ Summarizer.JS is a simple text summarizer function for websites.
 ```html
 <html>
 <head>
-    <script src="summary.js"></script>
+    <script src="summarizer.js"></script>
 </head>
 <body>
   
