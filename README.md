@@ -1,5 +1,5 @@
 # Summarizer.JS
-Summarizer.JS is simply a text summarizer for websites.
+Summarizer.JS is a simple text summarizer function for websites.
 
 ## How to use
 
